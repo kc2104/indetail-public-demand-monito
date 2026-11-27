@@ -1,0 +1,39 @@
+business:
+  name: "INDETAIL Design Studio"
+  website: "https://indetail-design.com/"
+  city: "Vadodara"
+  region: "Gujarat"
+  country: "India"
+
+date_range:
+  days_back: 30
+
+prospect_searches:
+  - "interior designer"
+  - "real estate developer"
+  - "builder"
+  - "architect"
+  - "property consultant"
+  - "commercial office"
+  - "new residential project"
+  - "modular kitchen"
+
+# Keep search terms relevant to your services and target market.
+instagram_hashtags:
+  - interior
+  - interior design
+  - interior designer
+  - vadodara
+  - architecture
+  - home decor
+  - modular kitchen
+  - office interiors
+
+places:
+  radius_meters: 25000
+  max_results_per_query: 20
+
+public_contact_research:
+  max_pages_per_domain: 3
+  timeout_seconds: 12
+  user_agent: "INDETAILLeadResearch/1.0 (business contact research)"

@@ -1,0 +1,8 @@
+google-api-python-client>=2.130.0
+google-auth>=2.30.0
+google-analytics-data>=0.18.13
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+PyYAML>=6.0.1
+pandas>=2.2.2
+python-dotenv>=1.0.1
